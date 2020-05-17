@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-myname {
+    font-size: 30px;
+    font-family: "acumin-pro",sans-serif;
+    border: 20px;
+
+}
+
+.nav-item {
+    background-color: #C594E1;
+    color:purple;
+    font-size: 20px;
+}
+.navigationbar {
+    margin: 0px;
+    padding: 0px;
+    background-color: #C594E1;
+    
+}
+
+h1 {
+    padding: 20px;
+    color: palevioletred;
+    background-color: mediumturquoise;
+}
+
+ul {
+    background-color: #C594E1;
+}
+
+p {
+    font-family: monospace;
+}
+
+.media {
+    padding: 20px;
+}
+
+img {
+    max-width:25%;
+    height: auto;
+}
+
+#logo {
+    text-align: center;
+}
