@@ -7,29 +7,30 @@
     font-size: 30px;
     font-family: "acumin-pro",sans-serif;
     border: 20px;
-
+    color:#C594E1;
+    padding: 10px;
 }
 
 .nav-item {
-    background-color: #C594E1;
-    color:purple;
+    background-color: ;
     font-size: 20px;
 }
+
+
 .navigationbar {
     margin: 0px;
     padding: 0px;
-    background-color: #C594E1;
     
 }
 
 h1 {
     padding: 20px;
     color: palevioletred;
-    background-color: mediumturquoise;
+    background-color:
 }
 
 ul {
-    background-color: #C594E1;
+    background-color:
 }
 
 p {
@@ -47,4 +48,29 @@ img {
 
 #logo {
     text-align: center;
+}
+.card-group {
+    padding:20px;
+}
+
+form {
+    padding: 20px;
+}
+a {
+    padding:20px;
+}
+
+.myemail {
+    padding:20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    line-height: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row {
+    padding:20px;
 }
